@@ -20,6 +20,8 @@ repositories {
 }
 
 dependencies {
+    implementation "com.github.trainrec:core:master-SNAPSHOT"
+
     // Use JUnit Jupiter API for testing.
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.2'
 
